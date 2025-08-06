@@ -125,5 +125,6 @@
 1123 black_cat_bag_fix.gpf
 //1124 stateicon.gpf
 1125 stateicon.gpf
-1126 iteminfo.rgz
+//1126 iteminfo.rgz
 1127 questinfo.rgz
+1128 iteminfo.rgz
