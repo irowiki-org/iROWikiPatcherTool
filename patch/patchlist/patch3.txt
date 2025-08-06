@@ -119,7 +119,7 @@
 1117 itemeffect.rgz
 //1118 iteminfo.rgz
 //1119 questinfo.rgz
-1120 patch_some_edits.gpf
+//1120 patch_some_edits.gpf
 //1121 stateicon.gpf
 1122 wikipatcher_style.rgz
 1123 black_cat_bag_fix.gpf
@@ -128,3 +128,4 @@
 //1126 iteminfo.rgz
 1127 questinfo.rgz
 1128 iteminfo.rgz
+1129 patch_some_edits.gpf
