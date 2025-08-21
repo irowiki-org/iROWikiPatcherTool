@@ -2,7 +2,7 @@ import os
 import subprocess
 
 CHANGED_FILES = "changed_files.txt"
-PATCH_FILE = "patch/patchlist/patch3.txt"
+PATCH_FILE = "patch/patchlist/patch9.txt"
 
 
 def get_changes():
