@@ -1,11 +1,13 @@
 on:
   push:
     paths-ignore:
+      - "patch/patchlist/patch3.txt"
       - "patch/patchlist/patch9.txt"
     branches:
       - main
   pull_request:
     paths-ignore:
+      - "patch/patchlist/patch3.txt"
       - "patch/patchlist/patch9.txt"
     branches:
       - main
@@ -37,7 +39,7 @@ jobs:
         git diff --name-status ${{ github.event.before }} ${{ github.sha }} > changed_files.txt
 
     - name: Run Patch3 Update Script
-      run: python scripts/update_patch9.py
+      run: python scripts/update_patch.py
       env:
         GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
 

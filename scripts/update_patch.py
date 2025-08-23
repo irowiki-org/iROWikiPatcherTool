@@ -3,6 +3,10 @@ import subprocess
 
 CHANGED_FILES = "changed_files.txt"
 PATCH_FILE = "patch/patchlist/patch9.txt"
+PATCH_FILES = [
+    "patch/patchlist/patch3.txt",
+    "patch/patchlist/patch9.txt"
+]
 
 
 def get_changes():
@@ -122,7 +126,7 @@ def update_file_entries(file_path, valid_entries, github_changes):
         file.writelines(updated_lines)
 
 
-def commit_and_push_file(file_path, commit_message="Update patch file [skip ci]"):
+def commit_and_push_file(files: list[str], commit_message: str = "Update patch file [skip ci]"):
     """
     Commits and pushes the updated file back to the repository.
     Uses '[skip ci]' in the commit message to prevent triggering GitHub Actions.
@@ -138,7 +142,9 @@ def commit_and_push_file(file_path, commit_message="Update patch file [skip ci]"
                        "github-actions@github.com"], check=True)
 
         # Stage the file
-        subprocess.run(["git", "add", file_path], check=True)
+        for f in files:
+            subprocess.run(["git", "add", f], check=True)
+            print(f"Successfully committed {f}")
 
         # Commit with [skip ci] to prevent triggering GitHub Actions
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
@@ -146,7 +152,7 @@ def commit_and_push_file(file_path, commit_message="Update patch file [skip ci]"
         # Push changes
         subprocess.run(["git", "push"], check=True)
 
-        print(f"Successfully committed and pushed {file_path}")
+        print("Successfully pushed files")
 
     except subprocess.CalledProcessError as e:
         print(f"Error committing and pushing file:{e}")
@@ -155,5 +161,6 @@ def commit_and_push_file(file_path, commit_message="Update patch file [skip ci]"
 if __name__ == "__main__":
     changes = get_changes()
     entries = current_patchfile()
-    update_file_entries(PATCH_FILE, entries, changes)
-    commit_and_push_file(PATCH_FILE)
+    for f in PATCH_FILES:
+        update_file_entries(f, entries, changes)
+    commit_and_push_file(PATCH_FILES)
