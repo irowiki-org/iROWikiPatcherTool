@@ -135,5 +135,6 @@
 1133 wikipatcher_style.rgz
 //1134 questinfo.rgz
 1135 questinfo.rgz
-1136 stateicon.gpf
+//1136 stateicon.gpf
 1137 iteminfo.rgz
+1138 stateicon.gpf
