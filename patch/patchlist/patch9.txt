@@ -139,3 +139,4 @@
 1137 iteminfo.rgz
 1138 stateicon.gpf
 1139 patch_some_edits.gpf
+1140 missing skills fix.gpf
