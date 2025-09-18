@@ -138,7 +138,7 @@
 //1136 stateicon.gpf
 //1137 iteminfo.rgz
 1138 stateicon.gpf
-1139 patch_some_edits.gpf
+//1139 patch_some_edits.gpf
 //1140 missing skills fix.gpf
 //1141 missing skills fix.gpf
 1140 missing_skills_fix.gpf
