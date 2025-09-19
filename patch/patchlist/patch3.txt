@@ -141,7 +141,7 @@
 //1139 patch_some_edits.gpf
 //1140 missing skills fix.gpf
 //1141 missing skills fix.gpf
-1140 missing_skills_fix.gpf
+//1140 missing_skills_fix.gpf
 //1141 wikipatcher_style.rgz
 1142 iteminfo.rgz
 1143 wikipatcher_style.rgz
