@@ -137,7 +137,7 @@
 //1135 questinfo.rgz
 //1136 stateicon.gpf
 //1137 iteminfo.rgz
-1138 stateicon.gpf
+//1138 stateicon.gpf
 //1139 patch_some_edits.gpf
 //1140 missing skills fix.gpf
 //1141 missing skills fix.gpf
@@ -152,3 +152,4 @@
 1148 wikipatcher_style.rgz
 1149 iteminfo.rgz
 1150 patch_some_edits.gpf
+1151 stateicon.gpf
