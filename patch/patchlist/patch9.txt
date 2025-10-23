@@ -150,6 +150,7 @@
 1146 missing_skills_fix.gpf
 //1147 patch_some_edits.gpf
 1148 wikipatcher_style.rgz
-1149 iteminfo.rgz
+//1149 iteminfo.rgz
 1150 patch_some_edits.gpf
 1151 stateicon.gpf
+1152 iteminfo.rgz
