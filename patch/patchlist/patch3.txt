@@ -145,7 +145,7 @@
 //1141 wikipatcher_style.rgz
 //1142 iteminfo.rgz
 //1143 wikipatcher_style.rgz
-1144 questinfo.rgz
+//1144 questinfo.rgz
 1145 bundle_all_edits.gpf
 1146 missing_skills_fix.gpf
 //1147 patch_some_edits.gpf
@@ -154,3 +154,4 @@
 1150 patch_some_edits.gpf
 1151 stateicon.gpf
 1152 iteminfo.rgz
+1153 questinfo.rgz
