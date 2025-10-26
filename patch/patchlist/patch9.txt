@@ -156,5 +156,6 @@
 //1152 iteminfo.rgz
 1153 questinfo.rgz
 1154 patch_some_edits.gpf
-1155 iteminfo.rgz
+//1155 iteminfo.rgz
 1156 itemeffect.rgz
+1157 iteminfo.rgz
