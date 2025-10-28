@@ -160,4 +160,5 @@
 1156 itemeffect.rgz
 1157 iteminfo.rgz
 1158 missing_resources.gpf
-1159 patch_some_edits.gpf
+//1159 patch_some_edits.gpf
+1160 patch_some_edits.gpf
