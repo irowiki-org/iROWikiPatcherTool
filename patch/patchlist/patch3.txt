@@ -163,6 +163,7 @@
 //1159 patch_some_edits.gpf
 //1160 patch_some_edits.gpf
 //1161 itemeffect.rgz
-1162 iteminfo.rgz
+//1162 iteminfo.rgz
 1163 itemeffect.rgz
 1164 patch_some_edits.gpf
+1165 iteminfo.rgz
