@@ -154,7 +154,7 @@
 //1150 patch_some_edits.gpf
 1151 stateicon.gpf
 //1152 iteminfo.rgz
-1153 questinfo.rgz
+//1153 questinfo.rgz
 //1154 patch_some_edits.gpf
 //1155 iteminfo.rgz
 //1156 itemeffect.rgz
@@ -167,3 +167,4 @@
 1163 itemeffect.rgz
 1164 patch_some_edits.gpf
 1165 iteminfo.rgz
+1166 questinfo.rgz
