@@ -168,4 +168,5 @@
 1164 patch_some_edits.gpf
 //1165 iteminfo.rgz
 1166 questinfo.rgz
-1167 iteminfo.rgz
+//1167 iteminfo.rgz
+1168 iteminfo.rgz
