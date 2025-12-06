@@ -171,4 +171,5 @@
 //1167 iteminfo.rgz
 1168 iteminfo.rgz
 1169 main01.gpf
-1170 stateicon.gpf
+//1170 stateicon.gpf
+1171 stateicon.gpf
