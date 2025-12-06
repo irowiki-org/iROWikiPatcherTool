@@ -100,7 +100,7 @@
 1098 main01.rgz
 //1099 main01.gpf
 //1100 iteminfo.rgz
-1101 main01.gpf
+//1101 main01.gpf
 //1102 questinfo.rgz
 //1103 iteminfo.rgz
 //1104 iteminfo.rgz
@@ -170,3 +170,4 @@
 1166 questinfo.rgz
 //1167 iteminfo.rgz
 1168 iteminfo.rgz
+1169 main01.gpf
