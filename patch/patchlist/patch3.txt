@@ -152,7 +152,7 @@
 1148 wikipatcher_style.rgz
 //1149 iteminfo.rgz
 //1150 patch_some_edits.gpf
-1151 stateicon.gpf
+//1151 stateicon.gpf
 //1152 iteminfo.rgz
 //1153 questinfo.rgz
 //1154 patch_some_edits.gpf
@@ -171,3 +171,4 @@
 //1167 iteminfo.rgz
 1168 iteminfo.rgz
 1169 main01.gpf
+1170 stateicon.gpf
