@@ -50,4 +50,4 @@ jobs:
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
         local-dir: ./patch/
-        server-dir: ./wikipatch/
+        server-dir: ./public_html/wikipatch/
