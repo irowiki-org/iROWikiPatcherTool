@@ -146,7 +146,7 @@
 //1142 iteminfo.rgz
 //1143 wikipatcher_style.rgz
 //1144 questinfo.rgz
-1145 bundle_all_edits.gpf
+//1145 bundle_all_edits.gpf
 //1146 missing_skills_fix.gpf
 //1147 patch_some_edits.gpf
 1148 wikipatcher_style.rgz
@@ -176,3 +176,4 @@
 //1172 patch_some_edits.gpf
 //1173 iteminfo.rgz
 1174 iteminfo.rgz
+1175 bundle_all_edits.gpf
