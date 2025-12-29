@@ -69,7 +69,7 @@
 //1068 patch_some_edits.gpf
 //1069 patch_some_edits.gpf
 //1070 OCP69.gpf
-//1071 2025-03_btexture.gpf
+1071 2025-03_btexture.gpf
 //1072 2025-03_btexture1.gpf
 //1073 2025-03_dtexture.gpf
 //1074 iteminfo.rgz
@@ -92,12 +92,12 @@
 //1091 2025-03_btexture.gpf
 //1091 main01.gpf
 //1092 2025-03_btexture.gpf
-//1093 2025-03_btexture.gpf
+1093 2025-03_btexture.gpf
 //1094 main01.gpf
 //1095 main01.rgz
 //1096 main01.gpf
 //1097 iteminfo.rgz
-//1098 main01.rgz
+1098 main01.rgz
 //1099 main01.gpf
 //1100 iteminfo.rgz
 //1101 main01.gpf
@@ -147,7 +147,7 @@
 //1143 wikipatcher_style.rgz
 //1144 questinfo.rgz
 1145 bundle_all_edits.gpf
-//1146 missing_skills_fix.gpf
+1146 missing_skills_fix.gpf
 //1147 patch_some_edits.gpf
 1148 wikipatcher_style.rgz
 //1149 iteminfo.rgz
@@ -159,7 +159,7 @@
 //1155 iteminfo.rgz
 //1156 itemeffect.rgz
 //1157 iteminfo.rgz
-//1158 missing_resources.gpf
+1158 missing_resources.gpf
 //1159 patch_some_edits.gpf
 //1160 patch_some_edits.gpf
 //1161 itemeffect.rgz
@@ -170,8 +170,9 @@
 1166 questinfo.rgz
 //1167 iteminfo.rgz
 //1168 iteminfo.rgz
-//1169 main01.gpf
+1169 main01.gpf
 //1170 stateicon.gpf
 1171 stateicon.gpf
-//1172 patch_some_edits.gpf
-1173 iteminfo.rgz
+1172 patch_some_edits.gpf
+//1173 iteminfo.rgz
+1174 iteminfo.rgz
