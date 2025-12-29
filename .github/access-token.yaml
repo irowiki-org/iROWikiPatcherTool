@@ -1,0 +1,27 @@
+on:
+workflow_dispatch:
+push:
+  branches:
+    - main
+
+permissions:
+id-token: write
+
+jobs:
+build:
+  runs-on: ubuntu-latest
+  steps:
+    - uses: qoomon/actions--access-token@v3
+      id: access-token
+      with:
+        permissions: |
+          actions: write
+
+    - name: Trigger workflow
+      run: >-
+        gh workflow
+        run [target workflow].yml
+        --field logLevel=debug
+      env:
+        GITHUB_TOKEN: ${{steps.access-token.outputs.token}}
+    # ...
