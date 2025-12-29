@@ -40,7 +40,7 @@ jobs:
 
     - name: Run Patch3 Update Script
       run: python scripts/update_patch.py
-#      env:
+      env:
        GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
 
     - name: Push files into FTP
