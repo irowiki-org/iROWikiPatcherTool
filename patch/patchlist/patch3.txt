@@ -174,4 +174,5 @@
 //1170 stateicon.gpf
 1171 stateicon.gpf
 1172 patch_some_edits.gpf
-1173 iteminfo.rgz
+//1173 iteminfo.rgz
+1174 iteminfo.rgz
