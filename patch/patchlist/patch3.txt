@@ -177,5 +177,7 @@
 //1173 iteminfo.rgz
 //1174 iteminfo.rgz
 1175 bundle_all_edits.gpf
-1176 questinfo.rgz
-1177 iteminfo.rgz
+//1176 questinfo.rgz
+//1177 iteminfo.rgz
+1178 iteminfo.rgz
+1179 questinfo.rgz
