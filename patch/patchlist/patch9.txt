@@ -176,12 +176,14 @@
 //1172 patch_some_edits.gpf
 //1173 iteminfo.rgz
 //1174 iteminfo.rgz
-1175 bundle_all_edits.gpf
+//1175 bundle_all_edits.gpf
 //1176 questinfo.rgz
 //1177 iteminfo.rgz
 //1178 iteminfo.rgz
-1179 questinfo.rgz
+//1179 questinfo.rgz
 1180 wikipatcher_style.rgz
 1181 patch_some_edits.gpf
 //1182 iteminfo.rgz
 1183 iteminfo.rgz
+1184 questinfo.rgz
+1185 bundle_all_edits.gpf
