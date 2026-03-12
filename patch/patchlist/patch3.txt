@@ -182,7 +182,7 @@
 //1178 iteminfo.rgz
 //1179 questinfo.rgz
 1180 wikipatcher_style.rgz
-1181 patch_some_edits.gpf
+//1181 patch_some_edits.gpf
 //1182 iteminfo.rgz
 //1183 iteminfo.rgz
 //1184 questinfo.rgz
@@ -191,3 +191,4 @@
 1187 questinfo.rgz
 1188 bundle_all_edits.gpf
 1189 iteminfo.rgz
+1190 patch_some_edits.gpf
