@@ -188,7 +188,8 @@
 //1184 questinfo.rgz
 //1185 bundle_all_edits.gpf
 //1186 iteminfo.rgz
-1187 questinfo.rgz
+//1187 questinfo.rgz
 1188 bundle_all_edits.gpf
 1189 iteminfo.rgz
 1190 patch_some_edits.gpf
+1191 questinfo.rgz
