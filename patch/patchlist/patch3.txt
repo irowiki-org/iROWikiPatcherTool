@@ -193,6 +193,7 @@
 //1189 iteminfo.rgz
 1190 patch_some_edits.gpf
 //1191 questinfo.rgz
-1192 questinfo.rgz
+//1192 questinfo.rgz
 //1193 iteminfo.rgz
 1194 iteminfo.rgz
+1195 questinfo.rgz
