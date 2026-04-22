@@ -198,4 +198,5 @@
 //1194 iteminfo.rgz
 1195 questinfo.rgz
 //1196 iteminfo.rgz
-1197 iteminfo.rgz
+//1197 iteminfo.rgz
+1198 iteminfo.rgz
