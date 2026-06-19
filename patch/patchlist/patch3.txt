@@ -204,5 +204,7 @@
 //1200 iteminfo.rgz
 1201 wikipatcher_style.rgz
 //1202 iteminfo.rgz
-1203 questinfo.rgz
-1204 iteminfo.rgz
+//1203 questinfo.rgz
+//1204 iteminfo.rgz
+1205 questinfo.rgz
+1206 iteminfo.rgz
