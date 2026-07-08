@@ -207,4 +207,5 @@
 //1203 questinfo.rgz
 //1204 iteminfo.rgz
 1205 questinfo.rgz
-1206 iteminfo.rgz
+//1206 iteminfo.rgz
+1207 iteminfo.rgz
