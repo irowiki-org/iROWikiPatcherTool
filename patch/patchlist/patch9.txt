@@ -214,4 +214,4 @@
 1210 questinfo.rgz
 1211 itemeffect.rgz
 1212 iteminfo.rgz
-1213 navigation_fix.rgz
+//1213 navigation_fix.rgz
