@@ -189,7 +189,7 @@
 //1185 bundle_all_edits.gpf
 //1186 iteminfo.rgz
 //1187 questinfo.rgz
-1188 bundle_all_edits.gpf
+//1188 bundle_all_edits.gpf
 //1189 iteminfo.rgz
 1190 patch_some_edits.gpf
 //1191 questinfo.rgz
@@ -216,3 +216,4 @@
 1212 iteminfo.rgz
 //1213 navigation_fix.rgz
 1213 navigation_fix.gpf
+1214 bundle_all_edits.gpf
