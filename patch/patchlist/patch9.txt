@@ -213,10 +213,13 @@
 //1209 questinfo.rgz
 1210 questinfo.rgz
 1211 itemeffect.rgz
-1212 iteminfo.rgz
+//1212 iteminfo.rgz
 //1213 navigation_fix.rgz
 //1213 navigation_fix.gpf
 //1214 bundle_all_edits.gpf
 //1215 bundle_all_edits.gpf
-1216 navigation_fix.gpf
-1217 bundle_all_edits.gpf
+//1216 navigation_fix.gpf
+//1217 bundle_all_edits.gpf
+1218 navigation_fix.gpf
+1219 iteminfo.rgz
+1220 bundle_all_edits.gpf
