@@ -202,7 +202,7 @@
 //1198 iteminfo.rgz
 //1199 questinfo.rgz
 //1200 iteminfo.rgz
-1201 wikipatcher_style.rgz
+//1201 wikipatcher_style.rgz
 //1202 iteminfo.rgz
 //1203 questinfo.rgz
 //1204 iteminfo.rgz
@@ -223,3 +223,4 @@
 1218 navigation_fix.gpf
 1219 iteminfo.rgz
 1220 bundle_all_edits.gpf
+1221 wikipatcher_style.rgz
