@@ -172,7 +172,7 @@
 //1168 iteminfo.rgz
 //1169 main01.gpf
 //1170 stateicon.gpf
-1171 stateicon.gpf
+//1171 stateicon.gpf
 //1172 patch_some_edits.gpf
 //1173 iteminfo.rgz
 //1174 iteminfo.rgz
@@ -221,6 +221,9 @@
 //1216 navigation_fix.gpf
 //1217 bundle_all_edits.gpf
 1218 navigation_fix.gpf
-1219 iteminfo.rgz
-1220 bundle_all_edits.gpf
+//1219 iteminfo.rgz
+//1220 bundle_all_edits.gpf
 1221 wikipatcher_style.rgz
+1222 iteminfo.rgz
+1223 stateicon.gpf
+1224 bundle_all_edits.gpf
