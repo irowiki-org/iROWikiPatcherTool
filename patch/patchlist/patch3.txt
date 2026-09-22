@@ -220,10 +220,12 @@
 //1215 bundle_all_edits.gpf
 //1216 navigation_fix.gpf
 //1217 bundle_all_edits.gpf
-1218 navigation_fix.gpf
+//1218 navigation_fix.gpf
 //1219 iteminfo.rgz
 //1220 bundle_all_edits.gpf
 1221 wikipatcher_style.rgz
-1222 iteminfo.rgz
+//1222 iteminfo.rgz
 1223 stateicon.gpf
 1224 bundle_all_edits.gpf
+1225 navigation_fix.gpf
+1226 iteminfo.rgz
