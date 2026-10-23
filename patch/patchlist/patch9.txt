@@ -232,7 +232,9 @@
 //1227 questinfo.rgz
 1228 navigation_fix.gpf
 //1229 questinfo.rgz
-1230 iteminfo.rgz
+//1230 iteminfo.rgz
 1231 wikipatcher_style.rgz
 //1232 questinfo.rgz
-1233 questinfo.rgz
+//1233 questinfo.rgz
+1234 questinfo.rgz
+1235 iteminfo.rgz
