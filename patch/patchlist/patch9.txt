@@ -226,7 +226,7 @@
 //1221 wikipatcher_style.rgz
 //1222 iteminfo.rgz
 1223 stateicon.gpf
-1224 bundle_all_edits.gpf
+//1224 bundle_all_edits.gpf
 //1225 navigation_fix.gpf
 //1226 iteminfo.rgz
 //1227 questinfo.rgz
@@ -238,3 +238,4 @@
 //1233 questinfo.rgz
 1234 questinfo.rgz
 1235 iteminfo.rgz
+1236 bundle_all_edits.gpf
