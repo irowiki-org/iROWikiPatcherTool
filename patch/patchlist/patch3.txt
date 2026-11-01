@@ -239,4 +239,5 @@
 1234 questinfo.rgz
 1235 iteminfo.rgz
 //1236 bundle_all_edits.gpf
-1237 bundle_all_edits.gpf
+//1237 bundle_all_edits.gpf
+1238 bundle_all_edits.gpf
