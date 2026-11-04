@@ -241,6 +241,7 @@
 //1236 bundle_all_edits.gpf
 //1237 bundle_all_edits.gpf
 1238 bundle_all_edits.gpf
-1239 iteminfo.rgz
+//1239 iteminfo.rgz
 1240 questinfo.rgz
 1241 navigation_fix.gpf
+1242 iteminfo.rgz
