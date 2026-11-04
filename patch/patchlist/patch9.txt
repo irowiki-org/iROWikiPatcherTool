@@ -236,8 +236,10 @@
 1231 wikipatcher_style.rgz
 //1232 questinfo.rgz
 //1233 questinfo.rgz
-1234 questinfo.rgz
-1235 iteminfo.rgz
+//1234 questinfo.rgz
+//1235 iteminfo.rgz
 //1236 bundle_all_edits.gpf
 //1237 bundle_all_edits.gpf
 1238 bundle_all_edits.gpf
+1239 iteminfo.rgz
+1240 questinfo.rgz
