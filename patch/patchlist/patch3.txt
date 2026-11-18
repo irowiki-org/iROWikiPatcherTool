@@ -244,4 +244,5 @@
 //1239 iteminfo.rgz
 1240 questinfo.rgz
 1241 navigation_fix.gpf
-1242 iteminfo.rgz
+//1242 iteminfo.rgz
+1243 iteminfo.rgz
